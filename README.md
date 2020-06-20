@@ -75,7 +75,7 @@ List of public projects I'm currently developing and maintaining
 
 ### As-is
 
-* 🍲 Stew (front-end for image crate image operations, one binary per operation) [[repo](https://github.com/foresterre/stew)]
+* 🍲 Stew (front-end for image crate image operations, one pipe-able binary per operation) [[repo](https://github.com/foresterre/stew)]
 
 ### Deprecated
 
