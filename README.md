@@ -2,7 +2,7 @@
 # index
 List of public projects I'm currently developing and maintaining
 
-### Developing
+### Actively developing
 
 <table><thead><tr>
   <th>🦜</th>
@@ -58,7 +58,6 @@ List of public projects I'm currently developing and maintaining
 **Others**
 
 * 📖 remarkable-articles (Articles I liked reading about) [[repo](https://github.com/foresterre/remarkable-articles)]
-
 
 
 ### Experimental & Researching
