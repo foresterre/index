@@ -2,7 +2,7 @@
 # index
 List of public projects I'm currently developing and maintaining
 
-### Actively developing
+### Primary focus
 
 <table><thead><tr>
   <th>🦜</th>
@@ -14,17 +14,25 @@ List of public projects I'm currently developing and maintaining
 </tr></tbody></table>
 
 <table><thead><tr>
-  <th>🐑</th>
-  <th>parameterized</th>
-  <th> <a href="https://github.com/foresterre/parameterized">[repo]</a> </th>
-  <th> <img src="https://img.shields.io/github/last-commit/foresterre/parameterized?logo=rust&style=flat-square"/> </th>
+  <th>🐺</th>
+  <th>sif</th>
+  <th> <a href="https://github.com/foresterre/sif">[repo]</a> </th>
+  <th> <img src="https://img.shields.io/github/last-commit/foresterre/sif?logo=rust&style=flat-square"/> </th>
 </tr></thead><tbody><tr>
-  <td colspan=4>parameterized testing for Rust</td>
+  <td colspan=4>Yet another parameterized testing library for Rust</td>
 </tr></tbody></table>
 
 ### Queue 
 _I've the intention to spend some time on these projects soon_
 
+<table><thead><tr>
+  <th>🐑</th>
+  <th>parameterized</th>
+  <th> <a href="https://github.com/foresterre/parameterized">[repo]</a> </th>
+  <th> <img src="https://img.shields.io/github/last-commit/foresterre/parameterized?logo=rust&style=flat-square"/> </th>
+</tr></thead><tbody><tr>
+  <td colspan=4>Parameterized testing for Rust</td>
+</tr></tbody></table>
 
 <table><thead><tr>
   <th>🦀</th>
@@ -35,7 +43,7 @@ _I've the intention to spend some time on these projects soon_
   <td colspan=4>Attempts to help you in finding your projects minimum supported Rust version (MSRV)</td>
 </tr></tbody></table>
 
-### Maintaining
+### Active and passive maintenance
 
 **Primary**
 
@@ -54,7 +62,7 @@ _I've the intention to spend some time on these projects soon_
   <th> <a href="https://github.com/foresterre/miniview">[repo]</a> </th>
   <th> <img src="https://img.shields.io/github/last-commit/foresterre/miniview?logo=rust&style=flat-square"/> </th>
 </tr></thead><tbody><tr>
-  <td colspan=4>an image viewer callable from the cli and usable as library which can be useful when testing programs which work with images</td>
+  <td colspan=4>An image viewer callable from the cli and usable as library which can be useful when testing programs which work with images</td>
 </tr></tbody></table>
 
 **Others**
