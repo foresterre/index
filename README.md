@@ -22,7 +22,9 @@ List of public projects I'm currently developing and maintaining
   <td colspan=4>parameterized testing for Rust</td>
 </tr></tbody></table>
 
-### Intent to develop actively (again) next
+### Queue 
+_I've the intention to spend some time on these projects soon_
+
 
 <table><thead><tr>
   <th>🦀</th>
@@ -62,6 +64,7 @@ List of public projects I'm currently developing and maintaining
 
 ### Experimental & Researching
 
+<!-- not public yet
 <table><thead><tr>
   <th>🐦</th>
   <th>starling</th>
@@ -71,6 +74,8 @@ List of public projects I'm currently developing and maintaining
   <td colspan=3>a Wren implementation</td>
   <td>status: slowly developing</td>
 </tr></tbody></table>
+
+-->
 
 ### As-is
 
